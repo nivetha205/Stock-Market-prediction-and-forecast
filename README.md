@@ -8,6 +8,8 @@ A sophisticated web-based platform for predicting stock prices using XGBoost mac
 
 **Live Website:** [Click here to access your stock forecasting platform](https://3000-idzkuk5gpi3c6eufqp8d4-5e63aeeb.sg1.manus.computer)
 
+https://stockforec-wcydbso2.manus.space/
+
 ---
 
 ## ✨ Features
@@ -205,4 +207,5 @@ Thank you for using the Stock Market Predictive Modeling & Forecasting platform.
 **Version**: 1.0.0
 **Status**: Production Ready
 
+https://stockforec-wcydbso2.manus.space/
 
